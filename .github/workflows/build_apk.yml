@@ -1,5 +1,4 @@
 
-یہ رہا GitHub Actions کا بلڈ اسکرپٹ:یہ رہا GitHub Actions کا بلڈ اسکرپٹ:
 name: Build Flutter APK
 on:
   push:
