@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: release-apk
-          path: build/app/outputs/flutter-apk/app-release.apobs:
+          path: build/app/outputs/flutter-apk/app-release.s:
   build:
     runs-on: ubuntu-latest
       
