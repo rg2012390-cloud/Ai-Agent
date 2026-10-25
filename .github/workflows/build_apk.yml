@@ -33,9 +33,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: release-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
-
-آپ اس اسکرپٹ کو کاپی کر کے فائل ایڈیٹر کے بڑے حصے میں پیسٹ کر دیں۔ اسے پیسٹ کرنے کے بعد نیچے "Commit changes" پر ٹیپ کریں۔
+          path: build/app/outputs/flutter-apk/app-release.app changes" کریں۔
 
 name: Build Flutter APK
 on:
